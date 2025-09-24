@@ -13,3 +13,7 @@ Run Server
 ```
 python manage.py runserver
 ```
+Add Django App
+```
+python manage.py startapp challenges
+```
