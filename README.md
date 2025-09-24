@@ -9,3 +9,7 @@ Create Django Project
 ```
 django-admin startproject mypage
 ```
+Run Server
+```
+python manage.py runserver
+```
